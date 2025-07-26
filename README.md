@@ -1,10 +1,10 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm [Suyasha Varpe]</h1>
+<h1 align="center">Hi 👋, I'm Suyasha Varpe</h1>
 <h3 align="center">A Passionate Developer | Coder | Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Suyashavarpe7&label=Profile%20views&color=0e75b6&style=flat" alt="Suyashavarpe7" />
 </p>
 
 ---
@@ -38,15 +38,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suyashavarpe7&theme=radical&hide_border=true" alt="streak-stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suyashavarpe7&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyashavarpe7&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -67,14 +67,14 @@
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [Suyashavarpe7](https://github.com/Suyashavarpe7)
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm [Your Name]</h1>
 <h3 align="center">A Passionate Developer | Coder | Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Suyashavarpe7&label=Profile%20views&color=0e75b6&style=flat" alt="Suyashavarpe7" />
 </p>
 
 ---
@@ -108,15 +108,15 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="streak-stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suyashavarpe7&theme=radical&hide_border=true" alt="streak-stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suyashavarpe7&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyashavarpe7&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -137,4 +137,4 @@
 
 ---
 
-⭐️ From [your-username](https://github.com/your-username)
+⭐️ From [Suyashavarpe7](https://github.com/Suyashavarpe7)
