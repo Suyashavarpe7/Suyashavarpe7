@@ -1,12 +1,11 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Suyasha Varpe</h1>
+<h1 align="center">Hi 👋, I'm Suyasha Maruti Varpe</h1>
 <h3 align="center">A Passionate Developer | Coder | Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suyashavarpe7&label=Profile%20views&color=0e75b6&style=flat" alt="Suyashavarpe7" />
 </p>
-
 ---
 
 ## 🚀 About Me
@@ -34,7 +33,6 @@
 </p>
 
 ---
-
 ## 📈 GitHub Stats
 
 <p align="center">
