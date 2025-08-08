@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Suyasha Maruti Varpe</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*hUCcM_W-aBjc1mZG">
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suyashavarpe7&label=Profile%20views&color=0e75b6&style=flat" alt="Suyashavarpe7" />
