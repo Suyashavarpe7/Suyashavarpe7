@@ -11,9 +11,9 @@
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **exciting personal and academic projects**
-- 🌱 I’m currently learning **MERN Stack, DevOps, and AI tools**
-- 💬 Ask me about **Web Development, C++, Python, and Git**
-- 📫 How to reach me: **your-email@example.com**
+- 🌱 I’m currently learning **Python and AI tools**
+- 💬 Ask me about **Web development, C, C++, Python, and Git**
+- 📫 How to reach me: **suyashamarutivarpe707@gmail.com**
 - ⚡ Fun fact: *I love solving coding challenges and building cool stuff!*
 
 ---
