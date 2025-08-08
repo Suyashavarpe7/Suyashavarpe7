@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Suyasha Maruti Varpe</h1>
-<h3 align="center">A Passionate Developer | Coder | Student</h3>
+<h3 align="center">A Passionate Frontend Developer from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suyashavarpe7&label=Profile%20views&color=0e75b6&style=flat" alt="Suyashavarpe7" />
