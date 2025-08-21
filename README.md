@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **exciting personal and academic projects**
 - 🌱 I’m currently learning **Python and AI tools**
-- 💬 Ask me about **Web development, C, C++, Python, and Git**
+- 💬 Ask me about **Web development, C, C++, Python,Basic Html and Git**
 - 📫 How to reach me: **suyashamarutivarpe707@gmail.com**
 - ⚡ Fun fact: *I love solving coding challenges and building cool stuff!*
 
