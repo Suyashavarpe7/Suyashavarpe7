@@ -52,49 +52,6 @@
 
 ---
 
-<!--
-  _   _       _       _       _     _     
- | | | |_ __ (_) __ _| |__   / \   | |__  
- | | | | '_ \| |/ _` | '_ \ / _ \  | '_ \ 
- | |_| | | | | | (_| | | | / ___ \ | |_) |
-  \___/|_| |_|_|\__, |_| |_/_/   \_\|_.__/ 
-                 |___/                     
--->
-
-# 👋 Hello World!
-
-| 🧑‍💻 About Me | 📫 Connect |
-|---|---|
-| Passionate coder, lifelong learner, coffee enthusiast ☕ | [Your Email](mailto:you@example.com) • [Twitter](https://twitter.com/your_handle) • [LinkedIn](https://www.linkedin.com/in/yourprofile) |
-
----
-
-## 📅 Coding Streaks & Activity
-
-| Metric | Count |
-|---|---|
-| 📈 Current GitHub Streak | **`xx` days** |
-| 🔥 Longest Streak | **`yy` days** |
-| 📅 Total Contributions (this year) | **`zzz`** |
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
----
-
-## 🛠️ Technologies & Skills
-
-Here are some of the languages, frameworks, and tools I work with:
-
-```text
-Python     • JavaScript    • TypeScript
-React      • Next.js       • Node.js
-Docker     • PostgreSQL    • Git / GitHub
-
-
 ## 📫 Let's Connect
 
 <p align="left">
