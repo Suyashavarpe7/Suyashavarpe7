@@ -1,6 +1,6 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm Suyasha Maruti Varpe</h1>
+<h1 align="center"> Hi 👋, I'm Suyasha Maruti Varpe </h1>
 <h3 align="center">A Passionate Frontend Developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*hUCcM_W-aBjc1mZG">
 
