@@ -49,7 +49,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyashavarpe7&layout=compact&theme=radical&hide_border=true" />
 </p>
-
 ---
 
 ## 📫 Let's Connect
