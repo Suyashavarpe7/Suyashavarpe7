@@ -7,9 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suyashavarpe7&label=Profile%20views&color=0e75b6&style=flat" alt="Suyashavarpe7" />
 </p>
-
 ---
-
 ## 🚀<h2> About Me</h2>
 
 - 🔭 I’m currently working on **exciting personal and academic projects**
