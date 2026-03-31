@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀<h2> About Me</h2>
+## <h2>🚀 About Me</h2>
 
 - 🔭 I’m currently working on **exciting personal and academic projects**
 - 🌱 I’m currently learning **Python and AI tools**
